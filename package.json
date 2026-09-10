@@ -1,5 +1,5 @@
 {
-  "name": "meme-dump",
+  "name": "shitpost-exe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
     "@reduxjs/toolkit": "^2.12.0",
     "browser-image-compression": "^2.0.2",
     "clsx": "^2.1.1",
+    "framer-motion": "^13.2.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-intersection-observer": "^11.0.1",
